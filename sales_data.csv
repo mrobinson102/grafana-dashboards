@@ -1,0 +1,11 @@
+order_date,product,region,sales_amount,customer_count
+2025-09-01,Toy A,East,1200.50,45
+2025-09-01,Toy B,West,950.75,32
+2025-09-02,Toy A,East,1340.25,50
+2025-09-02,Toy C,South,670.10,21
+2025-09-03,Toy B,North,890.60,28
+2025-09-03,Toy C,East,1450.90,53
+2025-09-04,Toy A,West,1115.35,40
+2025-09-04,Toy B,South,980.20,35
+2025-09-05,Toy C,East,1300.00,48
+2025-09-05,Toy A,North,875.55,30
